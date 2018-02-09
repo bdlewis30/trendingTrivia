@@ -1,0 +1,11 @@
+{
+    "name": "trendingtrivia",
+    "version": "1.0.0",
+    "scripts": {
+      "dev": "live-server ./"
+    },
+    "dependencies": {
+      "json-server": "^0.12.0",
+      "live-server": "^1.2.0"
+    }
+  }
